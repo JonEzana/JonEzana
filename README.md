@@ -7,7 +7,4 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 - 🧑🏾‍💻 I'm a full-stack software engineer with a passion for web development and new technologies.
-- 📫 How to reach me: ...
-- <!-- LinkedIn profile here -->
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I'm slowly getting into chess - add me on lichess and let's play a quick bullet game! (link coming soon)
